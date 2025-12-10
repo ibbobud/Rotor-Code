@@ -25,9 +25,7 @@ class LoadingWidget(Static):
         "Reading Proust",
         "Oui oui baguette",
         "Counting Rs in strawberry",
-        "Seeding Mistral weights",
         "Vibing",
-        "Sending good vibes",
         "Petting le chat",
     ]
 

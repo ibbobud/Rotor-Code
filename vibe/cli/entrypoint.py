@@ -23,7 +23,7 @@ from vibe.setup.onboarding import run_onboarding
 
 
 def parse_arguments() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Run the Mistral Vibe interactive CLI")
+    parser = argparse.ArgumentParser(description="Run the Rotor-Code interactive CLI")
     parser.add_argument(
         "initial_prompt",
         nargs="?",

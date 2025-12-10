@@ -30,5 +30,5 @@ def copy_selection_to_clipboard(app: App) -> None:
         app.notify("Selection added to clipboard", severity="information", timeout=2)
     except Exception:
         app.notify(
-            "Use Ctrl+c to copy selections in Vibe", severity="warning", timeout=3
+            "Use Ctrl+c to copy selections in Rotor-Code", severity="warning", timeout=3
         )
